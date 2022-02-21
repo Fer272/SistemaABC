@@ -1,0 +1,22 @@
+#containerLogo{
+    text-align: center;
+}
+
+#containerProx{
+    text-align: center;
+}
+
+#btnCerrarSesion{
+    width: 120px;
+    height: 39px;
+    background-color: #ffc107;
+    border-style: outset;
+    border-color:#ffdb70;
+    border-width: 3px;
+    border-radius: 7px;
+}
+
+.text-nav-link{
+    color: white;
+    text-decoration: none;
+}

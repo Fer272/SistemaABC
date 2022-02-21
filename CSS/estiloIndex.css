@@ -1,0 +1,39 @@
+/*
+    CSS INDEX
+*/
+
+#containerIndex{
+    background-image: url('../img/fondoIndex.jfif');
+}
+
+#containerLogin {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    width: 450px;
+    border: gray 8px outset;
+    color: gray;
+}
+
+#containerRegistro {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    width: 450px;
+    border: gray 8px outset;
+    color: gray;
+}
+
+#usuarioLoginLabel{
+    font-size:21px;
+}
+
+#contrasenaLoginLabel{
+    font-size:21px;
+}
+
+#footer{
+    text-align: center;
+}
+
+#abcfooter{
+    font-size:30px;
+}
